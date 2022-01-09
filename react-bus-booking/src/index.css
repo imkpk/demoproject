@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500&display=swap");
+
+body {
+  /* height: 100%; */
+  background-attachment: fixed;
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)),
+    url("https://images.pexels.com/photos/2942172/pexels-photo-2942172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  /* background-color: #bababa; */
+  font-family: "Lexend", sans-serif;
+  /* background-position: center; */
+  background-repeat: no-repeat;
+  background-size: cover;
+}

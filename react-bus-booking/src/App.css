@@ -1,0 +1,65 @@
+.center-card {
+  /* width: 60% !important; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4rem auto;
+}
+
+.my-card {
+  border-radius: 4px;
+  background-color: white;
+  padding: 20px;
+  width: 60%;
+  /* box-shadow: 4px 6px 8px -3px rgba(15, 15, 15, 0.57);
+  -webkit-box-shadow: 4px 6px 8px -3px rgba(15, 15, 15, 0.57);
+  -moz-box-shadow: 4px 6px 8px -3px rgba(15, 15, 15, 0.57); */
+}
+
+.form-control {
+  width: 100% !important;
+}
+
+.home-div {
+  width: 60%;
+  margin: 40px auto;
+}
+
+.search-buses {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buses-list {
+  margin: 12px;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.bus-result {
+  display: flex;
+  justify-content: space-between;
+  width: 100% !important;
+}
+
+.booking-card {
+  width: 60%;
+  margin: 20px auto;
+}
+
+.fare {
+  padding: 4px 8px;
+  width: max-content;
+  /* display: inline !important; */
+  border-radius: 4px;
+}
+
+.loader {
+  align-self: center;
+  justify-self: center;
+}
